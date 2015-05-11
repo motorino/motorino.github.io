@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Greenwit Technologies"
 ---
 
 <div class="tiles">
