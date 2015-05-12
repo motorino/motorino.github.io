@@ -1,6 +1,10 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: test1
+  url: /1/
+
+- title: test2
+  url: /2/
+
+- title: test3
+  url: /3/
