@@ -1,10 +1,21 @@
 # Site navigation links
 
-- title: test1
-  url: /1/
+- title: Scooters
+  url: /scooters/
 
-- title: test2
-  url: /2/
+- title: Bicycles
+  url: /bikes/
 
-- title: test3
-  url: /3/
+- title: Accessories
+  url: /accessories/
+
+- title: Media
+  url: /media/
+
+- title: About
+  url: /about/
+
+- title: Test
+  url: /test/
+  excerpt: "Test text"
+  image: 300x200.gif
