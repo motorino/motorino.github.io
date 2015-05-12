@@ -1,4 +1,6 @@
 # Footer navigation links
+- title: Stores
+  url: /stores/
 
 - title: Contact Us
   url: /contact/
