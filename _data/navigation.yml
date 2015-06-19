@@ -1,0 +1,30 @@
+# Site navigation links
+
+- title: Scooters
+  url: /scooters/
+  excerpt: A little description about the scooters we offer and how they vary.
+  image: 400x250.gif
+
+- title: Bicycles
+  url: /bikes/
+  excerpt: A little  description about the bikes we sell. 
+  image: 400x250.gif
+
+- title: Parts & Accessories
+  url: /accessories/
+  excerpt: List some accessories we sell and a little information on parts
+  image: 400x250.gif
+
+
+- title: Media
+  url: /media/
+  excerpt: Videos And News Articles.
+  image: 400x250.gif
+
+
+- title: About
+  url: /about/
+  excerpt: Get to know a little about us and our history!
+  image: 400x250.gif
+
+
